@@ -1,0 +1,31 @@
+h2{
+	color: #CC33CC;
+	font-size: 22px;
+	font-family: Georgia;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+h3{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 18.72px
+}
+h6{
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 16px;
+}
+p{
+	font-family: 'PT Sans', sans-serif;
+}
+td{
+	font-family: 'PT Sans', sans-serif;
+}
+div#wrapper{
+	
+}
+div#header{
+	
+}
